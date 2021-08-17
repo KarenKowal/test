@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/karen_portfolio/static/css/main.d7ed120d.chunk.css",
+    "main.js": "/karen_portfolio/static/js/main.940e7a3d.chunk.js",
+    "main.js.map": "/karen_portfolio/static/js/main.940e7a3d.chunk.js.map",
+    "runtime-main.js": "/karen_portfolio/static/js/runtime-main.82a4539b.js",
+    "runtime-main.js.map": "/karen_portfolio/static/js/runtime-main.82a4539b.js.map",
+    "static/js/2.96cc542e.chunk.js": "/karen_portfolio/static/js/2.96cc542e.chunk.js",
+    "static/js/2.96cc542e.chunk.js.map": "/karen_portfolio/static/js/2.96cc542e.chunk.js.map",
+    "index.html": "/karen_portfolio/index.html",
+    "precache-manifest.3aa49a50728f506a1d44e46540251ace.js": "/karen_portfolio/precache-manifest.3aa49a50728f506a1d44e46540251ace.js",
+    "service-worker.js": "/karen_portfolio/service-worker.js",
+    "static/css/main.d7ed120d.chunk.css.map": "/karen_portfolio/static/css/main.d7ed120d.chunk.css.map",
+    "static/js/2.96cc542e.chunk.js.LICENSE.txt": "/karen_portfolio/static/js/2.96cc542e.chunk.js.LICENSE.txt",
+    "static/media/01Director of Marketing.pdf": "/karen_portfolio/static/media/01Director of Marketing.33045566.pdf",
+    "static/media/01resumepic.png": "/karen_portfolio/static/media/01resumepic.4da82b1c.png",
+    "static/media/02IT Product Manager Director.pdf": "/karen_portfolio/static/media/02IT Product Manager Director.73da0178.pdf",
+    "static/media/02resumepic.png": "/karen_portfolio/static/media/02resumepic.4c958518.png",
+    "static/media/03CIO Resume.pdf": "/karen_portfolio/static/media/03CIO Resume.89e4a4d8.pdf",
+    "static/media/03resumepic.png": "/karen_portfolio/static/media/03resumepic.b1fe073c.png",
+    "static/media/logo.png": "/karen_portfolio/static/media/logo.01cc7eb7.png",
+    "static/media/profile.jpg": "/karen_portfolio/static/media/profile.80ab9be1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a4539b.js",
+    "static/js/2.96cc542e.chunk.js",
+    "static/css/main.d7ed120d.chunk.css",
+    "static/js/main.940e7a3d.chunk.js"
+  ]
+}
